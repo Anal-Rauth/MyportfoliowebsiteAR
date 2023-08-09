@@ -126,7 +126,7 @@ section {
     display: flex;
     align-items: center;
     padding:0 9%;
-    background-img: url(M1'.jpg');
+    background-img: url('M1.jpg');
     background-size: cover;
     background-position: center;
 }
